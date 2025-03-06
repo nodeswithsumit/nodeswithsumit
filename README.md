@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="images/sumit.jpg" alt="Github Banner" style="max-width: 200px; max-height: 200px; width: 40%; object-fit: cover; margin: 0 auto; display: block;">
-</div>
-
-<h1 align="left" style="font-family: 'IBM Plex Sans', sans-serif; border-bottom: 2px solid #0f62fe;">
-  Sumit Kumar Shukla 👨‍💻
-</h1>
-
 <table border="0">
  <tr>
     <td width="60%">

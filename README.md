@@ -3,18 +3,18 @@
     <td width="60%">
         <h3 style="color: #0f62fe">🚀 Data Scientist & Subject Matter Expert</h3>
         <p style="color: #393939; font-size: 16px;">
-          Transforming complex AI concepts into practical solutions | Tech Educator reaching 100K+ learners
+          Pioneering AI innovations with practical solutions | Accomplished Developer and Data Scientist empowering over 100K tech enthusiasts globally
         </p>
         <ul style="list-style: none; padding: 0;">
           <li>🎯 Leading AI/ML initiatives with cutting-edge technologies</li>
-          <li>📚 Created 200+ educational videos on Python, ML, and Cloud</li>
-          <li>🌟 Impacting 50K+ developers through hands-on tutorials</li>
-          <li>💡 Specializing in scalable AI solutions and enterprise architecture</li>
+          <li>📚 Successfully Developed, Managed and Deployed 20+ Industry Based Real Time Projects in the Market with Automations</li>
+          <li>🌟 Impacting 70K+ developers through hands-on sessions</li>
+          <li>💡 Specializing in scalable AI solutions and enterprise architecture.</li>
         </ul>
     </td>
     <td width="40%">
         <div align="right">
-            <a href="https://linkedin.com/in/YourProfile">
+            <a href="https://linkedin.com/in/sumitkumarshukla">
                 <img src="https://img.shields.io/badge/LinkedIn_Followers_2K+-0f62fe?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers">
             </a>
             <p style="margin-top: 10px;">
@@ -47,7 +47,7 @@
 ## Featured Projects
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
 
-[![Data Science Course](https://img.shields.io/badge/YouTube-Data_Science_Course-0f62fe?style=for-the-badge&logo=youtube)](https://youtube.com/nodeswithsumit)
+[![Live Sessions on Techs](https://img.shields.io/badge/Live Sessions-0f62fe?style=for-the-badge&logo=youtube)](https://youtube.com/@nodeswithsumit)
 [![ML Projects](https://img.shields.io/badge/GitHub-ML_Projects-0f62fe?style=for-the-badge&logo=github)](https://github.com/nodeswithsumit)
 
 </div>
